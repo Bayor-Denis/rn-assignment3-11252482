@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   hoveredCategory: {
-    backgroundColor: '#d0d0d0',
+    backgroundColor: 'pink',
     borderWidth:2,
     borderStyle:'solid',
     borderColor:'blue',
@@ -214,7 +214,7 @@ const styles = StyleSheet.create({
     elevation: 2,
   },
   hoveredTask: {
-    backgroundColor: 'white',
+    backgroundColor: 'pink',
     borderWidth:2,
     borderStyle:'solid',
     borderColor:'blue',
