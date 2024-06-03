@@ -30,14 +30,14 @@ A custom component to display each task list to be completed. It changes backgro
 
 # Screenshorts of the app
 
-## screenshort1
-![Alt Text](Screenshorts/screenshot1.png)
+## Screenshort1
+![Alt Text](components/Screenshorts/screenshot1.png)
 
-## screenshort2
-![Alt text](Screenshorts/screenshot2.png)
+## Screenshort2
+![Alt text](components/Screenshorts/screenshot2.png)
 
 ## Screenshort3
-![Alt Text](Screenshorts/screenshot3.png)
+![Alt Text](components/Screenshorts/screenshot3.png)
 
 ## Screenshort4
-![Alt Text](Screenshorts/screenshot4.png)
+![Alt Text](components/Screenshorts/screenshot4.png)
