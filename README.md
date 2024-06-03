@@ -28,16 +28,16 @@ A custom component to display each task category with an image, name, and descri
 ## Tasks
 A custom component to display each task list to be completed. It changes background color and border color on hover for visual feedback.
 
-# Screenshorts of the app
+# Screenshots of the app
 
-## Screenshort1
-![Alt Text](Screenshorts/screenshot1.png)
+## Screenshot1
+![Alt Text](Screenshots/screenshot1.png)
 
-## Screenshort2
+## Screenshot2
 ![Alt Text](Screenshorts/screenshot2.png)
 
-## Screenshort3
-![Alt Text](Screenshorts/screenshot3.png)
+## Screenshot3
+![Alt Text](Screenshots/screenshot3.png)
 
-## Screenshort4
-![Alt Text](Screenshorts/screenshot4.png)
+## Screenshot4
+![Alt Text](Screenshots/screenshot4.png)
