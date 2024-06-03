@@ -4,17 +4,17 @@
 The Task Manager App is a React Native application designed to help user manage and organize tasks efficiently. It features categorized task management, a task list, search functionality, and auto-scrolling categories.
 
 ## Features
-**Categorized Task Management**: View tasks by categories like Exercise, Study, Code, Cook, and the like.
-**Task List**: Maintain a list of ongoing tasks with completion status.
-**Search Functionality**: Quickly search through tasks.
-**Auto-Scrolling Categories**: Categories scroll automatically at regular intervals.
-**Hover Effects**: Visual feedback when hovering over categories and tasks.
+<b>Categorized Task Management</b>: View tasks by categories like Exercise, Study, Code, Cook, and the like.
+<b>Task List</b>: Maintain a list of ongoing tasks with completion status.
+<b>Search Functionality</b>: Quickly search through tasks.
+<b>Auto-Scrolling Categories</b>: Categories scroll automatically at regular intervals.
+<b>Hover Effects</b>: Visual feedback when hovering over categories and tasks.
 
 ## Usage
-**Search Tasks**: Use the search bar at the top to find specific tasks quickly and efficiently.
-**View Categories**: Scroll horizontally through the categories section to view different task categories.
-**Add Tasks**: Use the "Add Task" button at the bottom of the task list to add new tasks when necessary.
-**Mark Tasks as Completed**: Tap on a task to mark it as completed.
+<b>Search Tasks</b>: Use the search bar at the top to find specific tasks quickly and efficiently.
+<b>View Categories</b>: Scroll horizontally through the categories section to view different task categories.
+<b>Add Tasks</b>: Use the "Add Task" button at the bottom of the task list to add new tasks when necessary.
+<b>Mark Tasks as Completed</b>: Tap on a task to mark it as completed.
 
 
 # Components
@@ -27,3 +27,17 @@ A custom component to display each task category with an image, name, and descri
 
 ## Tasks
 A custom component to display each task list to be completed. It changes background color and border color on hover for visual feedback.
+
+# Screenshorts of the app
+
+## screenshort1
+![Alt Text](Screenshorts/screenshot1.png)
+
+## screenshort2
+![Alt text](Screenshorts/screenshot2.png)
+
+## Screenshort3
+![Alt Text](Screenshorts/screenshot3.png)
+
+## Screenshort4
+![Alt Text](Screenshorts/screenshot4.png)
