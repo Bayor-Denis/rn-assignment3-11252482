@@ -31,13 +31,13 @@ A custom component to display each task list to be completed. It changes backgro
 # Screenshots of the app
 
 ## Screenshot1
-![Alt Text](NativeExpoApp/components/Screenshots/screenshot1.png)
+![Alt Text](./NativeExpoApp/components/Screenshots/screenshot1.png)
 
 ## Screenshot2
-![Alt Text](NativeExpoApp/componets/Screenshorts/screenshot2.png)
+![Alt Text](./NativeExpoApp/componets/Screenshorts/screenshot2.png)
 
 ## Screenshot3
-![Alt Text](NativeExpoApp/components/Screenshots/screenshot3.png)
+![Alt Text](./NativeExpoApp/components/Screenshots/screenshot3.png)
 
 ## Screenshot4
-![Alt Text](NativeExpoApp/components/Screenshots/screenshot4.png)
+![Alt Text](./NativeExpoApp/components/Screenshots/screenshot4.png)
